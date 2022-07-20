@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
+
+>>>>>>> main
+=======
+ hello world:
 
 >>>>>>> main
 st commit in txt File
@@ -17,6 +22,7 @@ st commit in txt File
 :
 =======
 10th change
+<<<<<<< HEAD
 1th from Dilbag
 Greeting from Deepa kumar, good to know you.
 >>>>>>> main
@@ -24,3 +30,7 @@ Greeting from Deepa kumar, good to know you.
 
 
 nice to see the changes made 
+=======
+11th from Dilbag
+Greeting from Deepa kumar, good to know you.
+>>>>>>> main
