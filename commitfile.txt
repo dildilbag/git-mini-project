@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> main
 st commit in txt File
 2nd change
 3rd change
@@ -7,5 +12,11 @@ st commit in txt File
 7th change
 8th change 
 9th change
+<<<<<<< HEAD
 10th change chnage made by deepa
 :
+=======
+10th change
+11th from Dilbag
+Greeting from Deepa kumar, good to know you.
+>>>>>>> main
