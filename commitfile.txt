@@ -1,6 +1,5 @@
  hello world:
-
-st commit in txt File
+ist commit in txt File
 2nd change
 3rd change
 4th change 
