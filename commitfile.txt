@@ -24,6 +24,7 @@ st commit in txt File
 9th change
 10th change chnage made by deepa
 10th change
+<<<<<<< HEAD
 deepanew
 1th from Dilbag
 Greeting from Deepa kumar, good to know you.
@@ -40,3 +41,12 @@ Greeting from Deepa kumar, good to know you.
 Hi Guys, shumi here!
 
 >>>>>>> 829ff8a91c7f62f9b1c6acebc059554976eae2ff
+=======
+1th from Dilbag
+Greeting from Deepa kumar, good to know you.
+>>>>>>> main
+
+
+
+nice to see the changes made 
+>>>>>>> b44ce38 (CHANGE IN VIM)
