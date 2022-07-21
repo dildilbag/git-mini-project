@@ -1,0 +1,23 @@
+
+.team
+{
+margin: 75px 0;
+
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: black;
+    padding-bottom: 10px;
+}
+h1:after{
+
+    content: '';
+    background: rgb(79, 132, 41);
+    display: block;
+    height: 3px;
+    width: 160px;
+    margin:10px auto;
+}
+
